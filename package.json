@@ -1,0 +1,15 @@
+{
+  "name": "dhheroes",
+  "version": "1.0.0",
+  "description": "proyecto Digital House Heroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Autalan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

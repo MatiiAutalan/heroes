@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  width: 500px;
+  background-color: rgb(19, 19, 19);
+  margin: auto;
+}
+
+h1,
+h4 {
+  color: rgb(177, 170, 170);
+  text-align: center;
+}
+
+p {
+  color: rgb(177, 170, 170);
+}
+
+.fotoHeroe {
+  width: 200px;
+  height: 250px;
+  border: solid black 5px;
+  margin: 0 145px 0 145px
+}
